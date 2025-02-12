@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/sahilkapase/sahilkapase/assets/your-banner-image.png](https://drive.google.com/file/d/1xqYKMWykUUNd5v9h8igYM8TjmFaA-jR7/view?usp=sharing)" alt="Banner" width="100%">
+  <img src="github-header-image (2).png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sahil Kapase</h1>
