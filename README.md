@@ -11,17 +11,23 @@
 
 ---
 
+---
+
 ### 🏅 Hacktoberfest & Open Source Badges
 
 <p align="center">
-  <a href="https://hacktoberfest.com/">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackaday" alt="Hacktoberfest Badge">
+  <a href="https://hacktoberfest.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackaday&logoColor=white" alt="Hacktoberfest 2025">
   </a>
-  <img src="https://img.shields.io/github/hacktoberfest/2025/sahilkapase?color=orange&style=for-the-badge" alt="Hacktoberfest Contributions">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" alt="Open Source Badge">
+  <a href="https://github.com/sahilkapase" target="_blank">
+    <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge&logo=github" alt="Hacktoberfest Contributor">
+  </a>
+  <a href="https://github.com/sahilkapase" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source Contributor">
+  </a>
 </p>
 
-</div>
+---
 
 ---
 
